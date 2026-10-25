@@ -1,0 +1,19 @@
+# Local configuration
+.env
+*.env
+config.local.php
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database dumps / credentials
+*.sql
+demo_credentials.txt
